@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/我是-学生-blue
-https://img.shields.io/badge/V我-50-red
+![Static Badge](https://img.shields.io/badge/v%E6%88%9150)
 - 🔭 I’m currently working on Web Sercurity & LLM Sercurity
 - 🌱 I’m currently learning Pwn & Reverse
 - 📫 How to reach me: just send emails to me: hanghang214@nuaa.edu.cn
