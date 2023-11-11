@@ -3,7 +3,7 @@
 
 ![hanghang214's Social activity](https://stats.justsong.cn/api/github?username=hanghang214)
 
-[![hanghang214's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hanghang214)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanghang214&exclude_repo=github-readme-stats,anuraghazra.github.io)
 - 🔭 I’m currently working on Web Sercurity & LLM Sercurity
 
 - 🌱 I’m currently learning Pwn & Reverse
