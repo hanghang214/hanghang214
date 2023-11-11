@@ -1,7 +1,8 @@
 ### Hi! This is hanghang214 here.
 ![hanghang214's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanghang214)
-![hanghang214's Social activity](https://stats.justsong.cn/api/github?username=hanghang214&theme=dark)
-<!--
+
+![hanghang214's Social activity](https://stats.justsong.cn/api/github?username=hanghang214)
+
 **hanghang214/hanghang214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
