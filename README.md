@@ -1,9 +1,7 @@
 ### Hi! This is hanghang214 here.
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanghang214)
 <!--
 **hanghang214/hanghang214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/badge/我是-学生-blue
-https://img.shields.io/badge/V我-50-red
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://img.shields.io/badge/我是-学生-blue
+https://img.shields.io/badge/V我-50-red
+- 🔭 I’m currently working on Web Sercurity & LLM Sercurity
+- 🌱 I’m currently learning Pwn & Reverse
+- 📫 How to reach me: just send emails to me: hanghang214@nuaa.edu.cn
